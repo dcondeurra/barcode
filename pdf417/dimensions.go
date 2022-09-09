@@ -4,7 +4,7 @@ import "math"
 
 const (
 	minCols         = 2
-	maxCols         = 30
+	maxCols         = 15
 	maxRows         = 30
 	minRows         = 2
 	moduleHeight    = 2
